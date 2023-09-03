@@ -18,6 +18,7 @@
 		52486C9A2AA44E8400D5F820 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52486C992AA44E8400D5F820 /* DataServices.swift */; };
 		52486C9E2AA4646A00D5F820 /* ProdactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52486C9D2AA4646A00D5F820 /* ProdactCell.swift */; };
 		52486CA02AA4663500D5F820 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52486C9F2AA4663500D5F820 /* Product.swift */; };
+		52486CA22AA481A400D5F820 /* ProdactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52486CA12AA481A400D5F820 /* ProdactVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		52486C992AA44E8400D5F820 /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
 		52486C9D2AA4646A00D5F820 /* ProdactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProdactCell.swift; sourceTree = "<group>"; };
 		52486C9F2AA4663500D5F820 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		52486CA12AA481A400D5F820 /* ProdactVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProdactVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				52486C812AA4435300D5F820 /* CategoryVC.swift */,
+				52486CA12AA481A400D5F820 /* ProdactVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				52486C7E2AA4435300D5F820 /* AppDelegate.swift in Sources */,
 				52486C9A2AA44E8400D5F820 /* DataServices.swift in Sources */,
 				52486C802AA4435300D5F820 /* SceneDelegate.swift in Sources */,
+				52486CA22AA481A400D5F820 /* ProdactVC.swift in Sources */,
 				52486C952AA449D800D5F820 /* CategoryCell.swift in Sources */,
 				52486C9E2AA4646A00D5F820 /* ProdactCell.swift in Sources */,
 			);
